@@ -1,3 +1,2 @@
-<?gomath
-
-gomathinfo();
+package main
+import "fmt"
